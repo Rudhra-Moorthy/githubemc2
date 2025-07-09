@@ -1,1 +1,0 @@
-Hi, new file is created in the gitbranch2
